@@ -65,9 +65,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Radin Hatami&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Radin-Hatami&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" />
-  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Radin-Hatami" />  
+  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Phoenix-neo&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Phoenix-neo" />  
   <br />  
   <strong>VisitorCount:</strong>  
   <img align="left" alt="Radin Hatami's GitHub VisitorCount" src="https://profile-counter.glitch.me/Radin-Hatami/count.svg" />
