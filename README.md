@@ -4,7 +4,7 @@
 
 
 
-## I'm a Son, Friend, Developer, and Student!!
+## I'm a Student, and Developer!!
 
 - 🔭 Check out my Github repositories: [Repos][github]!
 - 🌱 I’m currently learning everything 🤣
