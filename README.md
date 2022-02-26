@@ -21,7 +21,7 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/ra100din#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://instagram.com/radinhtm#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/radinhtm#gh-dark-mode-only)
-[<img align="left" alt="Radin Hatami | Clubhouse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/clubhouse.svg" />][clubhouse]
+[<img alt="Radin Hatami | Clubhouse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/clubhouse.svg" />][clubhouse]
 <br />
 
 ### Languages and Tools:
