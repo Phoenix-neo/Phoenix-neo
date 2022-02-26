@@ -15,12 +15,12 @@
 - 🎶 I’m a fan of music 🎶
 ### Connect with me:
 
-[<img align="left" alt="Radin Hatami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Radin Hatami | LinkedIn" width="22px" src="./img/linkedin-dark.svg" />][linkedin]
-[<img align="left" alt="Radin Hatami | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Radin Hatami | Twitter" width="22px" src="./img/twitter-dark.svg" />][twitter]
-[<img align="left" alt="Radin Hatami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Radin Hatami | Instagram" width="22px" src="./img/instagram-dark.svg" />][instagram]
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/radin-hatami-9726a4120?originalSubdomain=ir#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/radin-hatami-9726a4120?originalSubdomain=ir#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/ra100din#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ra100din#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/radinhtm#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/radinhtm#gh-dark-mode-only)
 [<img align="left" alt="Radin Hatami | Clubhouse" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/clubhouse.svg" />][clubhouse]
 <br />
 
@@ -79,3 +79,4 @@
 [linkedin]: https://www.linkedin.com/in/radin-hatami-9726a4120?originalSubdomain=ir 
 [github]: https://github.com/Phoenix-neo?tab=repositories
 [clubhouse]: https://www.clubhouse.com/@radinhm?utm_medium=ch_profile&utm_campaign=Lpzy3JlSRyVQUz4qk_pm1w-80712
+
