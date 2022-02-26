@@ -70,7 +70,7 @@
   <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix-neo&theme=vue" />
   <br />
   <br />
-  <strong>VisitorsCount:<strong/> <img align="left" alt="Radin Hatami's GitHub VisitorCount" src="https://profile-counter.glitch.me/Radin-Hatami/count.svg" />
+  <img align="left" alt="Radin Hatami's GitHub VisitorCount" src="https://profile-counter.glitch.me/Radin-Hatami/count.svg" />
 
 </details>
 
