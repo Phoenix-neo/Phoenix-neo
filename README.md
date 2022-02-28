@@ -1,4 +1,4 @@
-# Hi there, I'm Radin - aka [Phoenix-neo][linkedin] 👋 
+# Hi there, I'm Radin - aka [Radinhtm][linkedin] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ra100din?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fra100din&screen_name=ra100din)
 
@@ -65,9 +65,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Phoenix-neo&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Radinhtm&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <br />
-  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix-neo&theme=vue" />
+  <img align="left" alt="Radin Hatami's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radinhtm&theme=vue" />
   <br />
   <br />
   <img align="left" alt="Radin Hatami's GitHub VisitorCount" src="https://profile-counter.glitch.me/Radin-Hatami/count.svg" />
@@ -77,6 +77,6 @@
 [twitter]: https://twitter.com/ra100din
 [instagram]: https://instagram.com/radinhtm
 [linkedin]: https://www.linkedin.com/in/radin-hatami-9726a4120?originalSubdomain=ir 
-[github]: https://github.com/Phoenix-neo?tab=repositories
+[github]: https://github.com/Radinhtm?tab=repositories
 [clubhouse]: https://www.clubhouse.com/@radinhm?utm_medium=ch_profile&utm_campaign=Lpzy3JlSRyVQUz4qk_pm1w-80712
 
